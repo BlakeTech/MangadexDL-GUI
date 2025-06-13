@@ -1,4 +1,4 @@
-Based on the Mangadex Downloader by [manusef](https://github.com/mansuf/mangadex-downloader), this is just a simple wrapper around their python library to make it a bit more user-friendly, instead of having to remember the command every couple of months when you wanna update your repository of manga!
+Based on the Mangadex Downloader by [mansuf](https://github.com/mansuf/mangadex-downloader), this is just a simple wrapper around their python library to make it a bit more user-friendly, instead of having to remember the command every couple of months when you wanna update your repository of manga!
 
 Future updates, if i can expend the effort to get around to doing it include, but is not limited to:
 * Keeping track of what version it last grabbed (i.e. "end" becomes last known, and then it checks for any newer versions past that version")
